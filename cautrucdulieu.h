@@ -7,7 +7,7 @@
 using namespace std;
 // Cau truc danh muc sach: Danh sach lien ket don.
 struct Sach{
-	char Masach[20];
+	char Masach[20];//wtf man ??
 	int Trangthai; // 0: cho muon dc; 1: da co nguoi muon; 2: sach da thanh ly
 	char Vitri[30];
 	Sach(){
